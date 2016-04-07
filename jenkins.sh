@@ -18,3 +18,8 @@ else if
   echo "sorry,访问出错了，http错误码为"  $res
 fi
 echo "OK,The End!!"
+
+TODO：slave config install
+TODO：add plugins and build task
+TODO：puppet or docker auto build environment
+...
