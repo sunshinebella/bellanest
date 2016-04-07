@@ -22,4 +22,6 @@ echo "OK,The End!!"
 TODO：slave config install
 TODO：add plugins and build task
 TODO：puppet or docker auto build environment
+TODO: git pull request
+TODO: git iusse manager
 ...
